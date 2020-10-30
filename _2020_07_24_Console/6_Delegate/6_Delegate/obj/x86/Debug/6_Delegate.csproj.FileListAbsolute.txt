@@ -1,0 +1,5 @@
+D:\Share\CSharpLecture\lecture\_2020_07_24\_2020_07_24_Console\6_Delegate\6_Delegate\bin\Debug\6_Delegate.exe
+D:\Share\CSharpLecture\lecture\_2020_07_24\_2020_07_24_Console\6_Delegate\6_Delegate\bin\Debug\6_Delegate.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_24\_2020_07_24_Console\6_Delegate\6_Delegate\obj\x86\Debug\6_Delegate.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_24\_2020_07_24_Console\6_Delegate\6_Delegate\obj\x86\Debug\6_Delegate.exe
+D:\Share\CSharpLecture\lecture\_2020_07_24\_2020_07_24_Console\6_Delegate\6_Delegate\obj\x86\Debug\6_Delegate.pdb

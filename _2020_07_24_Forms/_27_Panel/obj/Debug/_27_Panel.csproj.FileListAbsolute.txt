@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\bin\Debug\_27_Panel.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\bin\Debug\_27_Panel.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\bin\Debug\_27_Panel.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\obj\Debug\_27_Panel.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\obj\Debug\_27_Panel.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\obj\Debug\_27_Panel.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\obj\Debug\_27_Panel.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\obj\Debug\_27_Panel.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_27_Panel\obj\Debug\_27_Panel.pdb

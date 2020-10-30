@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\bin\Debug\_23_radio_checkbox.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\bin\Debug\_23_radio_checkbox.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\bin\Debug\_23_radio_checkbox.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\obj\Debug\_23_radio_checkbox.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\obj\Debug\_23_radio_checkbox.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\obj\Debug\_23_radio_checkbox.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\obj\Debug\_23_radio_checkbox.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\obj\Debug\_23_radio_checkbox.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\obj\Debug\_23_radio_checkbox.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_23_radio_checkbox\obj\Debug\_23_radio_checkbox.csprojAssemblyReference.cache

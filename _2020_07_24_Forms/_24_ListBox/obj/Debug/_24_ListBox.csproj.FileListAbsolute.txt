@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\bin\Debug\_24_ListBox.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\bin\Debug\_24_ListBox.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\bin\Debug\_24_ListBox.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.pdb

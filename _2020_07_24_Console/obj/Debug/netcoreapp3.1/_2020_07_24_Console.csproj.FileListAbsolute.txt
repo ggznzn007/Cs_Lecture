@@ -1,0 +1,7 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Console\obj\Debug\netcoreapp3.1\_2020_07_24_Console.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Console\obj\Debug\netcoreapp3.1\_8_Event.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Console\obj\Debug\netcoreapp3.1\_2020_07_24_Console._8_Event._8_Event.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Console\obj\Debug\netcoreapp3.1\_2020_07_24_Console.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Console\obj\Debug\netcoreapp3.1\_2020_07_24_Console.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Console\obj\Debug\netcoreapp3.1\_2020_07_24_Console.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Console\obj\Debug\netcoreapp3.1\_2020_07_24_Console.csproj.CoreCompileInputs.cache

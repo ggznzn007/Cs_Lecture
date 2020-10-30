@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\bin\Debug\netcoreapp3.1\_2020_07_24_HW_07.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\bin\Debug\netcoreapp3.1\_2020_07_24_HW_07.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\bin\Debug\netcoreapp3.1\_2020_07_24_HW_07.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\bin\Debug\netcoreapp3.1\_2020_07_24_HW_07.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\bin\Debug\netcoreapp3.1\_2020_07_24_HW_07.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\bin\Debug\netcoreapp3.1\_2020_07_24_HW_07.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\obj\Debug\netcoreapp3.1\_2020_07_24_HW_07.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\obj\Debug\netcoreapp3.1\_2020_07_24_HW_07.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\obj\Debug\netcoreapp3.1\_2020_07_24_HW_07.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\obj\Debug\netcoreapp3.1\_2020_07_24_HW_07.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\obj\Debug\netcoreapp3.1\_2020_07_24_HW_07.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_HW\_2020_07_24_HW_07\obj\Debug\netcoreapp3.1\_2020_07_24_HW_07.genruntimeconfig.cache

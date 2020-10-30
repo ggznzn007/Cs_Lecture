@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\bin\Debug\_26_Progress.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\bin\Debug\_26_Progress.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\bin\Debug\_26_Progress.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\obj\Debug\_26_Progress.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\obj\Debug\_26_Progress.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\obj\Debug\_26_Progress.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\obj\Debug\_26_Progress.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\obj\Debug\_26_Progress.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_24_Forms\_26_Progress\obj\Debug\_26_Progress.pdb
