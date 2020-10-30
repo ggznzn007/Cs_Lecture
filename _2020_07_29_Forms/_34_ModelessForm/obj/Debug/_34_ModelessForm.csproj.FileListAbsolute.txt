@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\bin\Debug\_34_ModelessForm.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\bin\Debug\_34_ModelessForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\bin\Debug\_34_ModelessForm.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.MyForm.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.pdb

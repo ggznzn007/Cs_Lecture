@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.genruntimeconfig.cache

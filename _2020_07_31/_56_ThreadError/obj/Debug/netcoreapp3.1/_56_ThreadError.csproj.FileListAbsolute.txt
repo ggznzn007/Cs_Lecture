@@ -1,0 +1,13 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.genruntimeconfig.cache

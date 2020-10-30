@@ -1,0 +1,13 @@
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.exe
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.deps.json
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.dll
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.pdb
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.dll
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.pdb
+D:\BitcampARVR(정푸른)\C#\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\bin\Debug\_14_RunThreadImage.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\bin\Debug\_14_RunThreadImage.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\obj\Debug\_62_RunThreadImage.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\obj\Debug\_62_RunThreadImage.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\obj\Debug\_62_RunThreadImage.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.pdb

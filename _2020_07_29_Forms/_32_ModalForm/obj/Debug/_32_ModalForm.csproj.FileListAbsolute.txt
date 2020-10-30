@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\bin\Debug\_32_ModalForm.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\bin\Debug\_32_ModalForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\bin\Debug\_32_ModalForm.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.MyForm.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.pdb

@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.genruntimeconfig.cache

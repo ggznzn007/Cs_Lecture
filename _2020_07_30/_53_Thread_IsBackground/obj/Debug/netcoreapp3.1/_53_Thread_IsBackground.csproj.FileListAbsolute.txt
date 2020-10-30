@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\bin\Debug\netcoreapp3.1\_53_Thread_IsBackground.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\bin\Debug\netcoreapp3.1\_53_Thread_IsBackground.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\bin\Debug\netcoreapp3.1\_53_Thread_IsBackground.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\bin\Debug\netcoreapp3.1\_53_Thread_IsBackground.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\bin\Debug\netcoreapp3.1\_53_Thread_IsBackground.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\bin\Debug\netcoreapp3.1\_53_Thread_IsBackground.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\obj\Debug\netcoreapp3.1\_53_Thread_IsBackground.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\obj\Debug\netcoreapp3.1\_53_Thread_IsBackground.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\obj\Debug\netcoreapp3.1\_53_Thread_IsBackground.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\obj\Debug\netcoreapp3.1\_53_Thread_IsBackground.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\obj\Debug\netcoreapp3.1\_53_Thread_IsBackground.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_53_Thread_IsBackground\obj\Debug\netcoreapp3.1\_53_Thread_IsBackground.genruntimeconfig.cache

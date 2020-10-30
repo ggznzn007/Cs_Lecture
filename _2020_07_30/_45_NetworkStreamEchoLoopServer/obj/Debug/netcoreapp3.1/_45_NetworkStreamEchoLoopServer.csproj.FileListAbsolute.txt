@@ -1,0 +1,13 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.genruntimeconfig.cache

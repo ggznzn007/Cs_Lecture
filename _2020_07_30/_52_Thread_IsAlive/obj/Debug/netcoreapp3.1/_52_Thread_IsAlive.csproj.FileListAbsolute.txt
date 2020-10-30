@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.genruntimeconfig.cache

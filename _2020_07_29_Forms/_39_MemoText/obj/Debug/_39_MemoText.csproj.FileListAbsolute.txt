@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\bin\Debug\_39_MemoText.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\bin\Debug\_39_MemoText.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\bin\Debug\_39_MemoText.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.pdb

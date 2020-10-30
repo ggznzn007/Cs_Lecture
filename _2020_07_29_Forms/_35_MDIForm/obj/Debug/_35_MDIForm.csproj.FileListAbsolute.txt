@@ -1,0 +1,11 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\bin\Debug\_35_MDIForm.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\bin\Debug\_35_MDIForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\bin\Debug\_35_MDIForm.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.ChildForm.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.pdb

@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_31\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.genruntimeconfig.cache

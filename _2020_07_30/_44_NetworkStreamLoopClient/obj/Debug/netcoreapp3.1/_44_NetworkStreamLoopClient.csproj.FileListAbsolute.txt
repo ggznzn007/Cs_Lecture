@@ -1,0 +1,13 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.genruntimeconfig.cache

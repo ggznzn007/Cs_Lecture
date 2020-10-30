@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\bin\Debug\netcoreapp3.1\_59_ThreadMonitor.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\bin\Debug\netcoreapp3.1\_59_ThreadMonitor.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\bin\Debug\netcoreapp3.1\_59_ThreadMonitor.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\bin\Debug\netcoreapp3.1\_59_ThreadMonitor.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\bin\Debug\netcoreapp3.1\_59_ThreadMonitor.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\bin\Debug\netcoreapp3.1\_59_ThreadMonitor.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\obj\Debug\netcoreapp3.1\_59_ThreadMonitor.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\obj\Debug\netcoreapp3.1\_59_ThreadMonitor.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\obj\Debug\netcoreapp3.1\_59_ThreadMonitor.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\obj\Debug\netcoreapp3.1\_59_ThreadMonitor.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\obj\Debug\netcoreapp3.1\_59_ThreadMonitor.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_31_Console\_59_ThreadMonitor\obj\Debug\netcoreapp3.1\_59_ThreadMonitor.genruntimeconfig.cache

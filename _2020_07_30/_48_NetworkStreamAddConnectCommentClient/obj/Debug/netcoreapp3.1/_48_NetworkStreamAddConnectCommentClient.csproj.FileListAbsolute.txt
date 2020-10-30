@@ -1,0 +1,12 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.deps.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.runtimeconfig.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.runtimeconfig.dev.json
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.AssemblyInfoInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.AssemblyInfo.cs
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.dll
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.genruntimeconfig.cache

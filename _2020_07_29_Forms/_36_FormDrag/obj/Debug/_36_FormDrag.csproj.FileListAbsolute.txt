@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\bin\Debug\_36_FormDrag.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\bin\Debug\_36_FormDrag.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\bin\Debug\_36_FormDrag.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.pdb
