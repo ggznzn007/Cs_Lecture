@@ -1,0 +1,9 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\bin\Debug\_2020_07_27_HW_03.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\bin\Debug\_2020_07_27_HW_03.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\bin\Debug\_2020_07_27_HW_03.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\obj\Debug\_2020_07_27_HW_03.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\obj\Debug\_2020_07_27_HW_03.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\obj\Debug\_2020_07_27_HW_03.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\obj\Debug\_2020_07_27_HW_03.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\obj\Debug\_2020_07_27_HW_03.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_HW_03\obj\Debug\_2020_07_27_HW_03.pdb

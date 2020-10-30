@@ -1,0 +1,8 @@
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\bin\Debug\Watch.exe
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\bin\Debug\Watch.pdb
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\obj\Debug\Watch.csprojAssemblyReference.cache
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.cache
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\obj\Debug\Watch.csproj.CoreCompileInputs.cache
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\obj\Debug\Watch.exe
+D:\Hd\AR_VR_Lecture\C#\Homework\Watch\Watch\obj\Debug\Watch.pdb

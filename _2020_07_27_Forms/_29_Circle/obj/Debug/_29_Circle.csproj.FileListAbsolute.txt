@@ -1,0 +1,10 @@
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\bin\Debug\_29_Circle.exe.config
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\bin\Debug\_29_Circle.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\bin\Debug\_29_Circle.pdb
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.csprojAssemblyReference.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.Form1.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.Properties.Resources.resources
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.csproj.GenerateResource.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.csproj.CoreCompileInputs.cache
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.exe
+D:\BitcampARVR(정푸른)\C#\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.pdb
