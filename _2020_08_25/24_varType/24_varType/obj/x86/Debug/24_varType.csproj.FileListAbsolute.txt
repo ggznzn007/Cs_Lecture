@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\24_varType\24_varType\bin\Debug\24_varType.exe
+D:\Share\UnityLecture\csharp_lecture\24_varType\24_varType\bin\Debug\24_varType.pdb
+D:\Share\UnityLecture\csharp_lecture\24_varType\24_varType\obj\x86\Debug\24_varType.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\24_varType\24_varType\obj\x86\Debug\24_varType.exe
+D:\Share\UnityLecture\csharp_lecture\24_varType\24_varType\obj\x86\Debug\24_varType.pdb

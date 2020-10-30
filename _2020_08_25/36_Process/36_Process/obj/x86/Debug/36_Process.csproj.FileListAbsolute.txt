@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\36_Process\36_Process\bin\Debug\5_Process.exe
+D:\Share\UnityLecture\csharp_lecture\36_Process\36_Process\bin\Debug\5_Process.pdb
+D:\Share\UnityLecture\csharp_lecture\36_Process\36_Process\obj\x86\Debug\36_Process.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\36_Process\36_Process\obj\x86\Debug\5_Process.exe
+D:\Share\UnityLecture\csharp_lecture\36_Process\36_Process\obj\x86\Debug\5_Process.pdb

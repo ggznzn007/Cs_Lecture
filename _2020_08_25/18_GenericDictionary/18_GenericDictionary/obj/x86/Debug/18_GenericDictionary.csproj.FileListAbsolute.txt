@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\18_GenericDictionary\18_GenericDictionary\bin\Debug\18_GenericDictionary.exe
+D:\Share\UnityLecture\csharp_lecture\18_GenericDictionary\18_GenericDictionary\bin\Debug\18_GenericDictionary.pdb
+D:\Share\UnityLecture\csharp_lecture\18_GenericDictionary\18_GenericDictionary\obj\x86\Debug\18_GenericDictionary.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\18_GenericDictionary\18_GenericDictionary\obj\x86\Debug\18_GenericDictionary.exe
+D:\Share\UnityLecture\csharp_lecture\18_GenericDictionary\18_GenericDictionary\obj\x86\Debug\18_GenericDictionary.pdb

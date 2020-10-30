@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\12_MethodGeneric\12_MethodGeneric\bin\Debug\12_MethodGeneric.exe
+D:\Share\UnityLecture\csharp_lecture\12_MethodGeneric\12_MethodGeneric\bin\Debug\12_MethodGeneric.pdb
+D:\Share\UnityLecture\csharp_lecture\12_MethodGeneric\12_MethodGeneric\obj\x86\Debug\12_MethodGeneric.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\12_MethodGeneric\12_MethodGeneric\obj\x86\Debug\12_MethodGeneric.exe
+D:\Share\UnityLecture\csharp_lecture\12_MethodGeneric\12_MethodGeneric\obj\x86\Debug\12_MethodGeneric.pdb

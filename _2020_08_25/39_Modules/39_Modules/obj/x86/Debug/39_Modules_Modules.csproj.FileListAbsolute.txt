@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\39_Modules\39_Modules\bin\Debug\8_Modules.exe
+D:\Share\UnityLecture\csharp_lecture\39_Modules\39_Modules\bin\Debug\8_Modules.pdb
+D:\Share\UnityLecture\csharp_lecture\39_Modules\39_Modules\obj\x86\Debug\39_Modules_Modules.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\39_Modules\39_Modules\obj\x86\Debug\8_Modules.exe
+D:\Share\UnityLecture\csharp_lecture\39_Modules\39_Modules\obj\x86\Debug\8_Modules.pdb

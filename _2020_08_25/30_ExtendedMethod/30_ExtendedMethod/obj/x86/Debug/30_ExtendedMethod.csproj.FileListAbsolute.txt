@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\30_ExtendedMethod\30_ExtendedMethod\bin\Debug\30_ExtendedMethod.exe
+D:\Share\UnityLecture\csharp_lecture\30_ExtendedMethod\30_ExtendedMethod\bin\Debug\30_ExtendedMethod.pdb
+D:\Share\UnityLecture\csharp_lecture\30_ExtendedMethod\30_ExtendedMethod\obj\x86\Debug\30_ExtendedMethod.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\30_ExtendedMethod\30_ExtendedMethod\obj\x86\Debug\30_ExtendedMethod.exe
+D:\Share\UnityLecture\csharp_lecture\30_ExtendedMethod\30_ExtendedMethod\obj\x86\Debug\30_ExtendedMethod.pdb

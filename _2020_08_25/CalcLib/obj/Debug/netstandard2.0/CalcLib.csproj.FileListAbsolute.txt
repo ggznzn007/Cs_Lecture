@@ -1,0 +1,9 @@
+D:\Share\UnityLecture\csharp_lecture\CalcLib\bin\Debug\netstandard2.0\CalcLib.deps.json
+D:\Share\UnityLecture\csharp_lecture\CalcLib\bin\Debug\netstandard2.0\CalcLib.dll
+D:\Share\UnityLecture\csharp_lecture\CalcLib\bin\Debug\netstandard2.0\CalcLib.pdb
+D:\Share\UnityLecture\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.csprojAssemblyReference.cache
+D:\Share\UnityLecture\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.AssemblyInfoInputs.cache
+D:\Share\UnityLecture\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.AssemblyInfo.cs
+D:\Share\UnityLecture\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.dll
+D:\Share\UnityLecture\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.pdb

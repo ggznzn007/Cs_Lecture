@@ -1,0 +1,6 @@
+D:\Share\UnityLecture\csharp_lecture\34_Linq\34_Linq\bin\Debug\34_Linq.exe
+D:\Share\UnityLecture\csharp_lecture\34_Linq\34_Linq\bin\Debug\34_Linq.pdb
+D:\Share\UnityLecture\csharp_lecture\34_Linq\34_Linq\obj\x86\Debug\34_Linq.csprojAssemblyReference.cache
+D:\Share\UnityLecture\csharp_lecture\34_Linq\34_Linq\obj\x86\Debug\34_Linq.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\34_Linq\34_Linq\obj\x86\Debug\34_Linq.exe
+D:\Share\UnityLecture\csharp_lecture\34_Linq\34_Linq\obj\x86\Debug\34_Linq.pdb

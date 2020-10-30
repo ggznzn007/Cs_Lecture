@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\28_AnonymouseType\28_AnonymouseType\bin\Debug\28_AnonymouseType.exe
+D:\Share\UnityLecture\csharp_lecture\28_AnonymouseType\28_AnonymouseType\bin\Debug\28_AnonymouseType.pdb
+D:\Share\UnityLecture\csharp_lecture\28_AnonymouseType\28_AnonymouseType\obj\x86\Debug\28_AnonymouseType.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\28_AnonymouseType\28_AnonymouseType\obj\x86\Debug\28_AnonymouseType.exe
+D:\Share\UnityLecture\csharp_lecture\28_AnonymouseType\28_AnonymouseType\obj\x86\Debug\28_AnonymouseType.pdb

@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\10_ClassGeneric\10_ClassGeneric\bin\Debug\10_ClassGeneric.exe
+D:\Share\UnityLecture\csharp_lecture\10_ClassGeneric\10_ClassGeneric\bin\Debug\10_ClassGeneric.pdb
+D:\Share\UnityLecture\csharp_lecture\10_ClassGeneric\10_ClassGeneric\obj\x86\Debug\10_ClassGeneric.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\10_ClassGeneric\10_ClassGeneric\obj\x86\Debug\10_ClassGeneric.exe
+D:\Share\UnityLecture\csharp_lecture\10_ClassGeneric\10_ClassGeneric\obj\x86\Debug\10_ClassGeneric.pdb

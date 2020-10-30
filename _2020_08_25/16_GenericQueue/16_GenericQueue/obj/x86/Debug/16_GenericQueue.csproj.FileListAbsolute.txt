@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\16_GenericQueue\16_GenericQueue\bin\Debug\16_GenericQueue.exe
+D:\Share\UnityLecture\csharp_lecture\16_GenericQueue\16_GenericQueue\bin\Debug\16_GenericQueue.pdb
+D:\Share\UnityLecture\csharp_lecture\16_GenericQueue\16_GenericQueue\obj\x86\Debug\16_GenericQueue.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\16_GenericQueue\16_GenericQueue\obj\x86\Debug\16_GenericQueue.exe
+D:\Share\UnityLecture\csharp_lecture\16_GenericQueue\16_GenericQueue\obj\x86\Debug\16_GenericQueue.pdb

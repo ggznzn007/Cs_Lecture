@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CalcLib">
+      <HintPath>..\CalcLib\bin\Debug\netstandard2.0\CalcLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

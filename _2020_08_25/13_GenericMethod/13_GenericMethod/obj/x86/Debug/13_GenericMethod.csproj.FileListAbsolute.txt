@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\13_GenericMethod\13_GenericMethod\bin\Debug\13_GenericMethod.exe
+D:\Share\UnityLecture\csharp_lecture\13_GenericMethod\13_GenericMethod\bin\Debug\13_GenericMethod.pdb
+D:\Share\UnityLecture\csharp_lecture\13_GenericMethod\13_GenericMethod\obj\x86\Debug\13_GenericMethod.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\13_GenericMethod\13_GenericMethod\obj\x86\Debug\13_GenericMethod.exe
+D:\Share\UnityLecture\csharp_lecture\13_GenericMethod\13_GenericMethod\obj\x86\Debug\13_GenericMethod.pdb

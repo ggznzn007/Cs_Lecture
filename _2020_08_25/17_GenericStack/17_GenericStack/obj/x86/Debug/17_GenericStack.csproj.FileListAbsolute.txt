@@ -1,0 +1,6 @@
+D:\Share\UnityLecture\csharp_lecture\17_GenericStack\17_GenericStack\bin\Debug\17_GenericStack.exe
+D:\Share\UnityLecture\csharp_lecture\17_GenericStack\17_GenericStack\bin\Debug\17_GenericStack.pdb
+D:\Share\UnityLecture\csharp_lecture\17_GenericStack\17_GenericStack\obj\x86\Debug\17_GenericStack.csprojAssemblyReference.cache
+D:\Share\UnityLecture\csharp_lecture\17_GenericStack\17_GenericStack\obj\x86\Debug\17_GenericStack.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\17_GenericStack\17_GenericStack\obj\x86\Debug\17_GenericStack.exe
+D:\Share\UnityLecture\csharp_lecture\17_GenericStack\17_GenericStack\obj\x86\Debug\17_GenericStack.pdb

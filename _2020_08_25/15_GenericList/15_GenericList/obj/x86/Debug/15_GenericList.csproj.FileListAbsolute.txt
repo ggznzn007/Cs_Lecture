@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\15_GenericList\15_GenericList\bin\Debug\15_GenericList.exe
+D:\Share\UnityLecture\csharp_lecture\15_GenericList\15_GenericList\bin\Debug\15_GenericList.pdb
+D:\Share\UnityLecture\csharp_lecture\15_GenericList\15_GenericList\obj\x86\Debug\15_GenericList.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\15_GenericList\15_GenericList\obj\x86\Debug\15_GenericList.exe
+D:\Share\UnityLecture\csharp_lecture\15_GenericList\15_GenericList\obj\x86\Debug\15_GenericList.pdb

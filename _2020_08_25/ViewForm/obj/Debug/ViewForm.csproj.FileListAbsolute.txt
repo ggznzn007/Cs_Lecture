@@ -1,0 +1,14 @@
+D:\Share\UnityLecture\csharp_lecture\ViewForm\bin\Debug\ViewForm.exe.config
+D:\Share\UnityLecture\csharp_lecture\ViewForm\bin\Debug\ViewForm.exe
+D:\Share\UnityLecture\csharp_lecture\ViewForm\bin\Debug\ViewForm.pdb
+D:\Share\UnityLecture\csharp_lecture\ViewForm\bin\Debug\ImageForm.exe
+D:\Share\UnityLecture\csharp_lecture\ViewForm\bin\Debug\ImageForm.pdb
+D:\Share\UnityLecture\csharp_lecture\ViewForm\bin\Debug\ImageForm.exe.config
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.csprojAssemblyReference.cache
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.Form1.resources
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.Properties.Resources.resources
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.csproj.GenerateResource.cache
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.csproj.CopyComplete
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.exe
+D:\Share\UnityLecture\csharp_lecture\ViewForm\obj\Debug\ViewForm.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Process", "5_Process\5_Process.csproj", "{18AA5CEC-F96D-4FAC-AC61-FFC2C05CFD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18AA5CEC-F96D-4FAC-AC61-FFC2C05CFD5D}.Debug|x86.ActiveCfg = Debug|x86
+		{18AA5CEC-F96D-4FAC-AC61-FFC2C05CFD5D}.Debug|x86.Build.0 = Debug|x86
+		{18AA5CEC-F96D-4FAC-AC61-FFC2C05CFD5D}.Release|x86.ActiveCfg = Release|x86
+		{18AA5CEC-F96D-4FAC-AC61-FFC2C05CFD5D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\38_ThreadList\38_ThreadList\bin\Debug\7_ThreadList.exe
+D:\Share\UnityLecture\csharp_lecture\38_ThreadList\38_ThreadList\bin\Debug\7_ThreadList.pdb
+D:\Share\UnityLecture\csharp_lecture\38_ThreadList\38_ThreadList\obj\x86\Debug\38_ThreadList.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\38_ThreadList\38_ThreadList\obj\x86\Debug\7_ThreadList.exe
+D:\Share\UnityLecture\csharp_lecture\38_ThreadList\38_ThreadList\obj\x86\Debug\7_ThreadList.pdb

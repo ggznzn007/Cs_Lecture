@@ -1,0 +1,5 @@
+D:\Share\UnityLecture\csharp_lecture\20_ClassPointer\20_ClassPointer\bin\Debug\20_ClassPointer.exe
+D:\Share\UnityLecture\csharp_lecture\20_ClassPointer\20_ClassPointer\bin\Debug\20_ClassPointer.pdb
+D:\Share\UnityLecture\csharp_lecture\20_ClassPointer\20_ClassPointer\obj\x86\Debug\20_ClassPointer.csproj.CoreCompileInputs.cache
+D:\Share\UnityLecture\csharp_lecture\20_ClassPointer\20_ClassPointer\obj\x86\Debug\20_ClassPointer.exe
+D:\Share\UnityLecture\csharp_lecture\20_ClassPointer\20_ClassPointer\obj\x86\Debug\20_ClassPointer.pdb
